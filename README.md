@@ -26,7 +26,7 @@ This project develops a robust Intrusion Detection System (IDS) using machine le
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ensemble-ids-detection.git](https://github.com/ChrisRogen/DDoS-Intrusion-Detection-Ensemble-Algorithms
+    git clone https://github.com/ChrisRogen/DDoS-Intrusion-Detection-Ensemble-Algorithms
     cd DDoS-Intrusion-Detection-Ensemble-Algorithms
     ```
 
